@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      "nativescript-websockets@~1.3.0",
+      "/Users/tedmartinez/Downloads/nativescript-actioncable-master"
+    ]
+  ],
+  "_from": "nativescript-websockets@>=1.3.0 <1.4.0",
+  "_id": "nativescript-websockets@1.3.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-websockets",
+  "_nodeVersion": "6.9.4",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-websockets-1.3.3.tgz_1490811015726_0.4264335734769702"
+  },
+  "_npmUser": {
+    "email": "nathan@master-technology.com",
+    "name": "nathanaela"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-websockets",
+    "raw": "nativescript-websockets@~1.3.0",
+    "rawSpec": "~1.3.0",
+    "scope": null,
+    "spec": ">=1.3.0 <1.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/nativescript-actioncable"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-websockets/-/nativescript-websockets-1.3.3.tgz",
+  "_shasum": "fe5d25393f18c6c8533308bb39e78752bd1bc49a",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-websockets@~1.3.0",
+  "_where": "/Users/tedmartinez/Downloads/nativescript-actioncable-master",
+  "author": {
+    "email": "nathan@master-technology.com",
+    "name": "Nathanael Anderson"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/nativescript-websockets/issues"
+  },
+  "contributors": [
+    {
+      "name": "Aleksey Gureiev",
+      "email": "spyromus@noizeramp.com",
+      "url": "https://github.com/alg"
+    },
+    {
+      "name": "Choi Won",
+      "email": "help@myso.kr",
+      "url": "https://github.com/myso-kr"
+    }
+  ],
+  "dependencies": {},
+  "description": "A WebSocket NativeScript module for Android",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fe5d25393f18c6c8533308bb39e78752bd1bc49a",
+    "tarball": "https://registry.npmjs.org/nativescript-websockets/-/nativescript-websockets-1.3.3.tgz"
+  },
+  "gitHead": "28f744be4bc1224d00b53e76a0d43ce964ef3b28",
+  "homepage": "https://github.com/nathanaela/nativescript-websockets",
+  "keywords": [
+    "Android",
+    "Development",
+    "JavaScript",
+    "NativeScript",
+    "Sockets",
+    "WebSockets",
+    "Websocket",
+    "iOS"
+  ],
+  "license": {
+    "type": "MIT & Apache 2.0",
+    "url": "https://github.com/nathanaela/nativescript-sqlite/blob/master/LICENSE"
+  },
+  "main": "websockets.js",
+  "maintainers": [
+    {
+      "name": "nathanaela",
+      "email": "nathanael.anderson@gmail.com"
+    }
+  ],
+  "name": "nativescript-websockets",
+  "nativescript": {
+    "platforms": {
+      "android": "1.4.0",
+      "ios": "1.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanaela/nativescript-websockets.git"
+  },
+  "scripts": {},
+  "version": "1.3.3"
+}

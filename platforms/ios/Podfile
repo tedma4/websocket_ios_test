@@ -1,0 +1,8 @@
+use_frameworks!
+
+target "demo" do
+# Begin Podfile - /Users/tedmartinez/Downloads/nativescript-actioncable-master/demo/node_modules/nativescript-websockets/platforms/ios/Podfile 
+ pod 'PocketSocket', :git => 'https://github.com/NathanaelA/PocketSocket' 
+ # End Podfile 
+
+end

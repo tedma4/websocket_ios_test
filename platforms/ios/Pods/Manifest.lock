@@ -1,0 +1,29 @@
+PODS:
+  - PocketSocket (1.0.1):
+    - PocketSocket/Client (= 1.0.1)
+    - PocketSocket/Core (= 1.0.1)
+    - PocketSocket/Server (= 1.0.1)
+  - PocketSocket/Client (1.0.1):
+    - PocketSocket/Core
+  - PocketSocket/Core (1.0.1)
+  - PocketSocket/Server (1.0.1):
+    - PocketSocket/Client
+
+DEPENDENCIES:
+  - PocketSocket (from `https://github.com/NathanaelA/PocketSocket`)
+
+EXTERNAL SOURCES:
+  PocketSocket:
+    :git: https://github.com/NathanaelA/PocketSocket
+
+CHECKOUT OPTIONS:
+  PocketSocket:
+    :commit: b4579b39d0de3a771148e89d3fa27a5787833b70
+    :git: https://github.com/NathanaelA/PocketSocket
+
+SPEC CHECKSUMS:
+  PocketSocket: ed13efbabd383b065fb9ac79f8d1204f0121a745
+
+PODFILE CHECKSUM: 18b75b3d706da39f6287956f1548c6c9b36b7b56
+
+COCOAPODS: 1.1.1
